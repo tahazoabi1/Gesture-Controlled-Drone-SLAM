@@ -1,2 +1,24 @@
 videos/\nresults/\n__pycache__/
 videos/\nresults/\n__pycache__/
+camera_forwarder/key.pem
+camera_forwarder/cert.pem
+camera_forwarder/frames/
+camera_forwarder/node_modules/
+ORB_SLAM3/
+orb_slam3/
+ThirdParty/
+third_party/
+build/
+*.bin
+*.exe
+*.out
+*.log
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+.DS_Store
+Thumbs.db
+
